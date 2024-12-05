@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "/home/betara/flutter_projects/greenbite/linux",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
